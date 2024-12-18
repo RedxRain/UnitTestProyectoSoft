@@ -1,0 +1,35 @@
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Domain\obj\Debug\net7.0\ref\Domain.dll

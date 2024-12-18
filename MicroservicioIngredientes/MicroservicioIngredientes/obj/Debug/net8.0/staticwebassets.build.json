@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "j61OYcUziLbI7QBA4hm6pFv9wff/111IHnnAuwVDVBE=",
+  "Source": "MicroservicioIngredientes",
+  "BasePath": "_content/MicroservicioIngredientes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

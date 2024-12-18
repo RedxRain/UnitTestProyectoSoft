@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081934BE-396B-453E-9598-0CA9E72D8FAB}|..\\UniTestIngredientes\\UniTestReceta.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\unitestingredientes\\recetaunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\mappers\\recetadeletemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\gastronet\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|solutionrelative:controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\usecases\\dificultad\\dificultadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\usecases\\receta\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\infraestructure\\querys\\dificultadquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\infraestructure\\querys\\ingredienterecetaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\infraestructure\\command\\recetacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\response\\recetaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\mappers\\recetagetresponsemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\response\\recetagetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\usecases\\ingredienterecetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\userservice\\useringredienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\application\\userservice\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\gastronet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\gastronet\\controllers\\dificultadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|solutionrelative:controllers\\dificultadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\gastronet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|c:\\users\\matia\\desktop\\unaj mati\\proyecto final grupal-continuacion\\microservicioreceta\\microserviciorecetas\\gastronet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476948AC-5685-47CE-A22C-6618BBCA8041}|GastroNET.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecetaUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "RelativeToolTip": "..\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA6wDYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:09:52.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecetaDeleteMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Mappers\\RecetaDeleteMapper.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Mappers\\RecetaDeleteMapper.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Mappers\\RecetaDeleteMapper.cs",
+              "RelativeToolTip": "..\\Application\\Mappers\\RecetaDeleteMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:07:17.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DificultadService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Dificultad\\DificultadService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCases\\Dificultad\\DificultadService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Dificultad\\DificultadService.cs",
+              "RelativeToolTip": "..\\Application\\UseCases\\Dificultad\\DificultadService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:13:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecetaController.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Controllers\\RecetaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecetaController.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Controllers\\RecetaController.cs",
+              "RelativeToolTip": "Controllers\\RecetaController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:25:06.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "RelativeToolTip": "..\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:23:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IngredienteRecetaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Querys\\IngredienteRecetaQuery.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Querys\\IngredienteRecetaQuery.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Querys\\IngredienteRecetaQuery.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Querys\\IngredienteRecetaQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:59:30.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecetaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Command\\RecetaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Command\\RecetaCommand.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Command\\RecetaCommand.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Command\\RecetaCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:27:33.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecetaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Response\\RecetaResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Response\\RecetaResponse.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Response\\RecetaResponse.cs",
+              "RelativeToolTip": "..\\Application\\Response\\RecetaResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:40:19.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecetaGetResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Response\\RecetaGetResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Response\\RecetaGetResponse.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Response\\RecetaGetResponse.cs",
+              "RelativeToolTip": "..\\Application\\Response\\RecetaGetResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:40:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecetaGetResponseMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Mappers\\RecetaGetResponseMapper.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Mappers\\RecetaGetResponseMapper.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Mappers\\RecetaGetResponseMapper.cs",
+              "RelativeToolTip": "..\\Application\\Mappers\\RecetaGetResponseMapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:39:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DificultadQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Querys\\DificultadQuery.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Querys\\DificultadQuery.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Infraestructure\\Querys\\DificultadQuery.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Querys\\DificultadQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:11:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IngredienteRecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\IngredienteRecetaService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCases\\IngredienteRecetaService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\IngredienteRecetaService.cs",
+              "RelativeToolTip": "..\\Application\\UseCases\\IngredienteRecetaService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T02:22:10.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserIngredienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UserService\\UserIngredienteService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UserService\\UserIngredienteService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UserService\\UserIngredienteService.cs",
+              "RelativeToolTip": "..\\Application\\UserService\\UserIngredienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:30:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DificultadController.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Controllers\\DificultadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DificultadController.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Controllers\\DificultadController.cs",
+              "RelativeToolTip": "Controllers\\DificultadController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBTwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T02:14:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBTwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:10:01.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UserService\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UserService\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UserService\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\Application\\UserService\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:49:27.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T18:38:25.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T20:09:37.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
