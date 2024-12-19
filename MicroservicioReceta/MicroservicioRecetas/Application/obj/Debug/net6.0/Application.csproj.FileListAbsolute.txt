@@ -1,0 +1,137 @@
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Application.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\refint\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\Application\obj\Debug\net6.0\ref\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Application.deps.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Application.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Domain.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\bin\Debug\net6.0\Domain.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\refint\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\Application\obj\Debug\net6.0\ref\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\refint\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Application.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\ref\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\refint\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.sourcelink.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\Application\obj\Debug\net6.0\ref\Application.dll

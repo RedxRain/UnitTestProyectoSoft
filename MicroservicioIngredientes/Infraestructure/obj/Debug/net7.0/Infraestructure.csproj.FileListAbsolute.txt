@@ -1,0 +1,57 @@
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.runtimeconfig.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Aplication.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.runtimeconfig.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.runtimeconfig.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraest.B0D41582.Up2Date
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\Infraestructure.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioIngredientes\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll

@@ -1,0 +1,30 @@
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto final\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\ref\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Aplication.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\bin\Debug\net7.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\Aplication.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioIngredientes\Aplication\obj\Debug\net7.0\ref\Aplication.dll

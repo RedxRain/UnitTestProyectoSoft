@@ -1,0 +1,785 @@
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\appsettings.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\GastroNET.exe
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Humanizer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\GastroNet\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.exe
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+C:\Users\diego\Source\Repos\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\appsettings.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\GastroNET.exe
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\GastroNET.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Humanizer.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Application.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Domain.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Application.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\bin\Debug\net6.0\Domain.pdb
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+E:\facultad\cuarto año\segundo cuatrimestre\proyecto software\MicroservicioReceta\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\appsettings.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\GastroNET.exe
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Humanizer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.exe
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Proyecto Software\Proyecto Final Grupal\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.exe
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Humanizer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CopyComplete
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+D:\facultad\cuarto año\segundo cuatrimestre\proyecto software\Microservicio Receta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.exe
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.Up2Date
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.staticwebassets.endpoints.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Matia\Desktop\Unaj Mati\Proyecto Final Grupal-Continuacion\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\appsettings.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.staticwebassets.endpoints.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.exe
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.deps.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.runtimeconfig.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Application.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\bin\Debug\net6.0\Domain.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.AssemblyReference.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfoInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.AssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.sourcelink.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\scopedcss\bundle\GastroNET.styles.css
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.GastroNET.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.build.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GastroNET.props
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.csproj.Up2Date
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\refint\GastroNET.dll
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.pdb
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\GastroNET.genruntimeconfig.cache
+C:\Users\Matia\Desktop\Unaj Mati\UniTest Final\MicroservicioReceta\MicroservicioRecetas\GastroNET\obj\Debug\net6.0\ref\GastroNET.dll

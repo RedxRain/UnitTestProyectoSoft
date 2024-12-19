@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F4F13D-05F2-42F8-99C5-60DE5E6F6D85}|IngredientesUnitTest\\IngredientesUnitTest.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\ingredientesunittest\\ingredientesunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F4F13D-05F2-42F8-99C5-60DE5E6F6D85}|IngredientesUnitTest\\IngredientesUnitTest.csproj|solutionrelative:ingredientesunittest\\ingredientesunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\aplication\\usecase\\ingredienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|solutionrelative:aplication\\usecase\\ingredienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\aplication\\interfaces\\iingredientequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|solutionrelative:aplication\\interfaces\\iingredientequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3661D56F-6F81-4F1D-B415-8DD9FCC7E3AE}|Infraestructure\\Infraestructure.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\infraestructure\\querys\\ingredientequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3661D56F-6F81-4F1D-B415-8DD9FCC7E3AE}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\querys\\ingredientequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3661D56F-6F81-4F1D-B415-8DD9FCC7E3AE}|Infraestructure\\Infraestructure.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\infraestructure\\command\\ingredientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3661D56F-6F81-4F1D-B415-8DD9FCC7E3AE}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\command\\ingredientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37E638-7625-45F4-AFC4-58DE86947205}|MicroservicioIngredientes\\MicroservicioIngredientes.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\microservicioingredientes\\controllers\\tipoingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37E638-7625-45F4-AFC4-58DE86947205}|MicroservicioIngredientes\\MicroservicioIngredientes.csproj|solutionrelative:microservicioingredientes\\controllers\\tipoingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37E638-7625-45F4-AFC4-58DE86947205}|MicroservicioIngredientes\\MicroservicioIngredientes.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\microservicioingredientes\\controllers\\ingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37E638-7625-45F4-AFC4-58DE86947205}|MicroservicioIngredientes\\MicroservicioIngredientes.csproj|solutionrelative:microservicioingredientes\\controllers\\ingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioingredientes\\aplication\\interfaces\\iingredienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364ACD76-04EA-462F-9903-F46A12878B5F}|Aplication\\Application.csproj|solutionrelative:aplication\\interfaces\\iingredienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngredientesUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\IngredientesUnitTest\\IngredientesUnitTest.cs",
+              "RelativeDocumentMoniker": "IngredientesUnitTest\\IngredientesUnitTest.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\IngredientesUnitTest\\IngredientesUnitTest.cs",
+              "RelativeToolTip": "IngredientesUnitTest\\IngredientesUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:40:46.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIngredienteQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\Interfaces\\IIngredienteQuery.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IIngredienteQuery.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\Interfaces\\IIngredienteQuery.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\IIngredienteQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:04:31.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IngredienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\UseCase\\IngredienteService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCase\\IngredienteService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\UseCase\\IngredienteService.cs",
+              "RelativeToolTip": "Aplication\\UseCase\\IngredienteService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:55:51.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoIngredienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\MicroservicioIngredientes\\Controllers\\TipoIngredienteController.cs",
+              "RelativeDocumentMoniker": "MicroservicioIngredientes\\Controllers\\TipoIngredienteController.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\MicroservicioIngredientes\\Controllers\\TipoIngredienteController.cs",
+              "RelativeToolTip": "MicroservicioIngredientes\\Controllers\\TipoIngredienteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:55:16.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IngredienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\MicroservicioIngredientes\\Controllers\\IngredienteController.cs",
+              "RelativeDocumentMoniker": "MicroservicioIngredientes\\Controllers\\IngredienteController.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\MicroservicioIngredientes\\Controllers\\IngredienteController.cs",
+              "RelativeToolTip": "MicroservicioIngredientes\\Controllers\\IngredienteController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:55:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredienteQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Infraestructure\\Querys\\IngredienteQuery.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Querys\\IngredienteQuery.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Infraestructure\\Querys\\IngredienteQuery.cs",
+              "RelativeToolTip": "Infraestructure\\Querys\\IngredienteQuery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:48:00.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Infraestructure\\Command\\IngredienteCommand.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Command\\IngredienteCommand.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Infraestructure\\Command\\IngredienteCommand.cs",
+              "RelativeToolTip": "Infraestructure\\Command\\IngredienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:24:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IIngredienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\Interfaces\\IIngredienteService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IIngredienteService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioIngredientes\\Aplication\\Interfaces\\IIngredienteService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\IIngredienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:32:39.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

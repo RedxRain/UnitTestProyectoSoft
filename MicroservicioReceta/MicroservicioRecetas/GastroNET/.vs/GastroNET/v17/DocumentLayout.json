@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\GastroNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C157B18-A53F-427B-A984-885B55E856C0}|..\\Domain\\Domain.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\domain\\entities\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C157B18-A53F-427B-A984-885B55E856C0}|..\\Domain\\Domain.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\domain\\entities\\promediopuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\application\\usecases\\receta\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E14D2-7390-4F61-814F-A7ACD360905B}|..\\Application\\Application.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\application\\interfaces\\querys\\irecetaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C157B18-A53F-427B-A984-885B55E856C0}|..\\Domain\\Domain.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\domain\\entities\\categoriareceta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C157B18-A53F-427B-A984-885B55E856C0}|..\\Domain\\Domain.csproj|c:\\users\\matia\\desktop\\unaj mati\\unitest final\\microservicioreceta\\microserviciorecetas\\domain\\entities\\dificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecetaUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Proyecto Final Grupal-Continuacion\\MicroservicioReceta\\MicroservicioRecetas\\UniTestIngredientes\\RecetaUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:09:52.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\Receta.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Receta.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\Receta.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Receta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:11:55.814Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromedioPuntaje.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\PromedioPuntaje.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\PromedioPuntaje.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\PromedioPuntaje.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\PromedioPuntaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:30:30.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dificultad.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\Dificultad.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Dificultad.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\Dificultad.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Dificultad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:21:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaReceta.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\CategoriaReceta.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\CategoriaReceta.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Domain\\Entities\\CategoriaReceta.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\CategoriaReceta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:19:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecetaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Interfaces\\Querys\\IRecetaQuery.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\Querys\\IRecetaQuery.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Application\\Interfaces\\Querys\\IRecetaQuery.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\Querys\\IRecetaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:58:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "ToolTip": "C:\\Users\\Matia\\Desktop\\Unaj Mati\\UniTest Final\\MicroservicioReceta\\MicroservicioRecetas\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "RelativeToolTip": "..\\Application\\UseCases\\Receta\\RecetaService.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAqwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:36:30.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
