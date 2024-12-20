@@ -170,8 +170,8 @@ namespace Application.UseCases.SPasos
         private async Task<bool> VerifyAll(PasoRequest request)
         {
             //Solo los validadores de los atributos paso!
-            if (request.Descripcion.Length > await _query.GetDescripcionLength()) { throw new BadRequestt("La descripción sumera el límite permitido"); }
-            if (request.Foto.Length > await _query.GetFotoLength()) { throw new BadRequestt("El url de la foto supera el límite permitido"); }
+            if (request.Descripcion.Length > await _query.GetDescripcionLength()) { throw new Exceptions.BadRequest("La descripción sumera el límite permitido"); }
+            if (request.Foto.Length > await _query.GetFotoLength()) { throw new Exceptions.BadRequest("El url de la foto supera el límite permitido"); }
             //Verificador de ints??
             return true;
         }

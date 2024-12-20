@@ -66,8 +66,8 @@ namespace Application.UseCases
             {
                 return (await _command.DeleteAllIngRecetaByRecetaId(recetaId));
             }
-            catch (BadRequestt)
-            { throw new BadRequestt("Error al eliminar los ingredientes"); }
+            catch (Exceptions.BadRequest)
+            { throw new Exceptions.BadRequest("Error al eliminar los ingredientes"); }
         }
 
         public async Task<IngredienteRecetaDeleteResponse> DeleteIngredienteReceta(int ingRecetaId)

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "..\Infraestructure\Infraestructure.csproj", "{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTestReceta", "..\UniTestIngredientes\UniTestReceta.csproj", "{081934BE-396B-453E-9598-0CA9E72D8FAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTestReceta", "..\RecetaUnitTest\UniTestReceta.csproj", "{828C8B04-B835-42F7-BBB6-6EDC5E44148E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B51871B-08A5-4733-AFCA-CAFB7602BA5A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{081934BE-396B-453E-9598-0CA9E72D8FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{081934BE-396B-453E-9598-0CA9E72D8FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{081934BE-396B-453E-9598-0CA9E72D8FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{081934BE-396B-453E-9598-0CA9E72D8FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828C8B04-B835-42F7-BBB6-6EDC5E44148E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828C8B04-B835-42F7-BBB6-6EDC5E44148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828C8B04-B835-42F7-BBB6-6EDC5E44148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828C8B04-B835-42F7-BBB6-6EDC5E44148E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

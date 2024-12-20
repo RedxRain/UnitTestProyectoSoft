@@ -6,6 +6,7 @@ using Application.Interfaces.Services;
 using Application.Request;
 using Application.Response;
 using Domain.Entities;
+using Microsoft.IdentityModel.Tokens;
 using System.Data;
 
 namespace Application.UseCases.SReceta
@@ -65,7 +66,7 @@ namespace Application.UseCases.SReceta
                 foreach (IngredienteRecetaRequest ingReceta in recetaRequest.ListaIngredienteReceta) { await _ingRecetaService.CreateIngredienteReceta(ingReceta, recetaCreada.RecetaId); }
                 if (await _command.SaveChanges())
                 {
-                    throw new BadRequestt("Error al publicar la receta");
+                    throw new Exceptions.BadRequest("Error al publicar la receta");
                 }
                 return await _recetaMapper.CreateRecetaResponse(recetaCreada);
             }
@@ -77,12 +78,10 @@ namespace Application.UseCases.SReceta
             {
                 throw new ExceptionNotFound("No se pudo agregar la receta: " + e.Message);
             }
-            catch (BadRequestt e)
+            catch (Exceptions.BadRequest e)
             {
-                throw new BadRequestt(e.Message);
+                throw new Exceptions.BadRequest(e.Message);
             }
-
-
         }
 
         public async Task<RecetaResponse> UpdateReceta(RecetaRequest recetaRequest, Guid recetaId)
@@ -102,7 +101,7 @@ namespace Application.UseCases.SReceta
                     }
 
                 }
-                if (await _command.SaveChanges()) { throw new BadRequestt("Error al publicar la receta"); }
+                if (await _command.SaveChanges()) { throw new Exceptions.BadRequest("Error al publicar la receta"); }
                 return await _recetaMapper.CreateRecetaResponse(unaReceta);
             }
             catch (Conflict ex)
@@ -127,33 +126,26 @@ namespace Application.UseCases.SReceta
                 if (!await VerifyRecetaId(id)) { throw new ExceptionNotFound("El id no existe"); }
                 if (!await DeleteAllIngReceta(id) && !await DeleteAllPasos(id))
                 { recetaToDelete = await _command.DeleteReceta(await _query.GetRecetaById(id)); }
-                if (await _command.SaveChanges()) { throw new BadRequestt("Error al eliminar la receta"); }
+                if (await _command.SaveChanges()) { throw new Exceptions.BadRequest("Error al eliminar la receta"); }
                 return await _recetaDeleteMapper.CreateRecetaDeleteResponse(recetaToDelete);
             }
             catch (ExceptionNotFound ex) { throw new ExceptionNotFound("Error en la búsqueda de la receta: " + ex.Message); }
             catch (Conflict ex) { throw new Conflict("Error en la base de datos: " + ex.Message); }
-            catch (ExceptionSintaxError) { throw new ExceptionSintaxError("Sintaxis incorrecta para el Id"); }
         }
 
         public async Task<RecetaResponse> GetRecetaById(Guid id)
         {
             try
             {
-                if (!Guid.TryParse(id.ToString(), out id)) { throw new ExceptionSintaxError(); }
-                var paso = await _query.GetRecetaById(id);
-                if (paso != null)
+                var receta = await _query.GetRecetaById(id);
+                if (receta != null)
                 {
-                    return await _recetaMapper.CreateRecetaResponse(paso);
+                    return await _recetaMapper.CreateRecetaResponse(receta);
                 }
                 else
                 {
                     throw new ExceptionNotFound("No existe ninguna receta con ese ID");
                 }
-
-            }
-            catch (ExceptionSintaxError)
-            {
-                throw new ExceptionSintaxError("Error en la sintaxis del id a buscar, pruebe ingresar el id con el formato válido");
             }
             catch (ExceptionNotFound e)
             {
@@ -187,6 +179,9 @@ namespace Application.UseCases.SReceta
                 {
                     listaFiltrada = (await _query.GetRecetasByFilters(tituloIngredienteTopic, dificultad, categoria));
                 }
+
+                if (listaFiltrada.IsNullOrEmpty())
+                { throw new ExceptionNotFound("No se encontro ninguna Receta"); }
 
                 var resultados = await Task.WhenAll(listaFiltrada.Select(async unaReceta =>
                         await _recetaGetResponseMapper.CreateRecetaGetResponse(unaReceta)
@@ -255,7 +250,7 @@ namespace Application.UseCases.SReceta
                 tiempoPreparacion[2] == ':')
             { return Task.FromResult(new TimeSpan(horas, minutos, 0)); }
             else
-            { throw new ExceptionSintaxError("Formato erróneo para el horario, pruebe usando hh:mm"); }
+            { throw new ExceptionSintaxError("Formato erróneo para el horario de la receta, pruebe usando hh:mm"); }
         }
 
 

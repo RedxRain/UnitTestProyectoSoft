@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GastroNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fcaf212b06eb2efebbd9fff6d18adb4d4421547")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67130518a1fa2f562272fcd5bb11228b3f3086bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GastroNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GastroNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

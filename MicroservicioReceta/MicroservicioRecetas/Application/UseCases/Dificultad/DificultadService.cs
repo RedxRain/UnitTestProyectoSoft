@@ -23,24 +23,12 @@ namespace Application.UseCases.SDificultad
             {
                 return await mapper.GetListDificultadResponse(await _query.GetListDificultades());
             }
-            catch (BadRequestt ex)
+            catch (BadRequest ex)
             {
-                throw new Exceptions.BadRequestt("Error: " + ex.Message);
+                throw new Exceptions.BadRequest("Error: " + ex.Message);
             }
 
         }
-
-        //public async Task<DificultadResponse> GetDificultadById(int id)
-        //{
-        //    try
-        //    {
-        //        return await mapper.GetDificultadResponse(await _query.GetDificultadById(id));
-        //    }
-        //    catch (ExceptionNotFound)
-        //    {
-        //        throw new ExceptionNotFound("No existe esa dificultad");
-        //    }
-        //}
 
         public async Task<bool> ValidateDificultadById(int dificultadId)
         {
@@ -48,9 +36,9 @@ namespace Application.UseCases.SDificultad
             {
                 return (await _query.GetDificultadById(dificultadId) != null);
             }
-            catch (Exceptions.BadRequestt ex)
+            catch (Exceptions.BadRequest ex)
             {
-                throw new Exceptions.BadRequestt(ex.Message);
+                throw new Exceptions.BadRequest(ex.Message);
             }
         }
     }

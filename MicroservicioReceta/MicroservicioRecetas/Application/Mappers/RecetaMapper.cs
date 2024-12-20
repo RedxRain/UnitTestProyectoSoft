@@ -31,8 +31,8 @@ namespace Application.Mappers
                 Titulo = unaReceta.Titulo,
                 Video = unaReceta.Video,
                 Topics = unaReceta.Topics,
-                pasos = await _pasoMapper.GetListPasosResponse(unaReceta.Pasos),
-                ingredientes = await _ingRecMapper.GetIngredientesRecetaResponse(unaReceta.IngredentesReceta)
+                Pasos = await _pasoMapper.GetListPasosResponse(unaReceta.Pasos),
+                Ingredientes = await _ingRecMapper.GetIngredientesRecetaResponse(unaReceta.IngredentesReceta)
             };
             return receta;
         }

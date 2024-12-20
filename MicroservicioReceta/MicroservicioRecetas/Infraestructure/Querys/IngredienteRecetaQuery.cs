@@ -24,7 +24,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un error en la búsqueda del ingrediente receta");
+                throw new BadRequest("Hubo un error en la búsqueda del ingrediente receta");
             }
         }
         public async Task<bool> ExistIngredienteInIngReceta(Guid recetaId, int ingredienteId)
@@ -36,7 +36,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un error en la búsqueda del ingrediente receta");
+                throw new BadRequest("Hubo un error en la búsqueda del ingrediente receta");
             }
         }
         public async Task<Guid> GetRecetaIdByIngRecetaId(int ingRecetaId)
@@ -48,7 +48,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un error en la búsqueda del ingrediente receta");
+                throw new BadRequest("Hubo un error en la búsqueda del ingrediente receta");
             }
 
         }
@@ -62,7 +62,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un error en la búsqueda del ingrediente receta");
+                throw new BadRequest("Hubo un error en la búsqueda del ingrediente receta");
             }
         }
     }

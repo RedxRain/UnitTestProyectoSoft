@@ -24,7 +24,7 @@ namespace Infraestructure.Querys
             }
             catch (DbException ex)
             {
-                throw new BadRequestt("Hubo un problema en la búsqueda de listas de dificultades");
+                throw new BadRequest("Hubo un problema en la búsqueda de listas de dificultades");
             }
         }
 
@@ -37,7 +37,7 @@ namespace Infraestructure.Querys
             }
             catch (DbException ex)
             {
-                throw new BadRequestt("Hubo un error en la búsqueda de la dificultad");
+                throw new BadRequest("Hubo un error en la búsqueda de la dificultad");
             }
         }
     }

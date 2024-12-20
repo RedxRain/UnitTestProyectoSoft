@@ -1,7 +1,6 @@
 ﻿using Application.Interfaces.Mappers;
 using Application.Interfaces.Services;
 using Application.Response;
-using Application.UserService;
 using Domain.Entities;
 
 namespace Application.Mappers

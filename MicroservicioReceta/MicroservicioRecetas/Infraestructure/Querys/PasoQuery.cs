@@ -54,7 +54,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud de la descripcion");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud de la descripcion");
             }
         }
 
@@ -68,7 +68,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud de la foto");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud de la foto");
             }
         }
 
@@ -82,7 +82,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud de la foto");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud de la foto");
             }
         }
     }

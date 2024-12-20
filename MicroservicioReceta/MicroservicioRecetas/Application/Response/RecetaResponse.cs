@@ -11,7 +11,7 @@
         public string Video { get; set; }
         public string TiempoPreparacion { get; set; }
         public string Topics { get; set; }
-        public List<PasoResponse> pasos { get; set; }
-        public List<IngredienteRecetaResponse> ingredientes { get; set; }
+        public List<PasoResponse> Pasos { get; set; }
+        public List<IngredienteRecetaResponse> Ingredientes { get; set; }
     }
 }

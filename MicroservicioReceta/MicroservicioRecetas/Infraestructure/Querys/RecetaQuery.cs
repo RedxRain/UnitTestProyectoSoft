@@ -53,7 +53,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al buscar la receta");
+                throw new BadRequest("Hubo un problema al buscar la receta");
             }
         }
 
@@ -66,7 +66,6 @@ namespace Infraestructure.Querys
                 (tituloIngredienteTopic != null && e.Titulo.ToLower().Contains(tituloIngredienteTopic.ToLower())) ||
                 (dificultad != null && e.Dificultad.DificultadId == dificultad) ||
                 (categoria != null && e.CategoriaReceta.CategoriaRecetaId == categoria) ||
-                //(tituloIngredienteTopic != null && e.IngredentesReceta.Any(ing => _userIngredienteService.GetIngredienteName(ing.IngredienteId).ToLower().Contains(tituloIngredienteTopic.ToLower()))) ||
                 (tituloIngredienteTopic != null && e.Topics.ToLower().Contains(tituloIngredienteTopic.ToLower())))
                 .Include(r => r.Dificultad)
                 .Include(r => r.IngredentesReceta)
@@ -77,7 +76,7 @@ namespace Infraestructure.Querys
 
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al buscar la receta");
+                throw new BadRequest("Hubo un problema al buscar la receta");
             }
         }
 
@@ -90,7 +89,7 @@ namespace Infraestructure.Querys
 
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al buscar la receta");
+                throw new BadRequest("Hubo un problema al buscar la receta");
             }
         }
 
@@ -104,7 +103,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud del titulo");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud del titulo");
             }
 
         }
@@ -118,7 +117,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud de la imagen");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud de la imagen");
             }
         }
         public async Task<int> GetVideoLenght()
@@ -131,7 +130,7 @@ namespace Infraestructure.Querys
             }
             catch (DbUpdateException)
             {
-                throw new BadRequestt("Hubo un problema al encontrar el limite de la longitud del video");
+                throw new BadRequest("Hubo un problema al encontrar el limite de la longitud del video");
             }
         }
     }

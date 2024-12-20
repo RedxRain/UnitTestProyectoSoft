@@ -30,7 +30,7 @@ namespace Application.UserService
             try
             {
                 HttpResponseMessage response = _httpClient.GetAsync($"Ingrediente/ById/{Id}").Result;
-                
+
                 if (response.StatusCode == System.Net.HttpStatusCode.NotFound)
                 {
                     throw new ExceptionNotFound("No existe el ingrediente con el id: ");
